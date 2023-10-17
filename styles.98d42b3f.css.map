@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,sBACF,CAEA,SACE,SAAU,CACV,cACF","file":"styles.98d42b3f.css","sourceRoot":"..","sourcesContent":["body {\n  font-family: sans-serif;\n}\n\n.special {\n  color: red;\n  font-size: 46px;\n}\n"]}
